@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43612296981",
+    "firebase_url": "https://iot-suecurity-app-46e49.firebaseio.com",
+    "project_id": "iot-suecurity-app-46e49",
+    "storage_bucket": "iot-suecurity-app-46e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43612296981:android:550b549e33d5459ddebb1c",
+        "android_client_info": {
+          "package_name": "com.shahar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43612296981-sb4sevpr48n9rvc8qgibqvqjslm240hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahar",
+            "certificate_hash": "6835f68608b7ecbd5349bd74347039f38cca8164"
+          }
+        },
+        {
+          "client_id": "43612296981-976su1cg34n08un540g2rvnipbaoga0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5KImCKc60y71eGKVu-ufd8HC9EbflzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43612296981-976su1cg34n08un540g2rvnipbaoga0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
